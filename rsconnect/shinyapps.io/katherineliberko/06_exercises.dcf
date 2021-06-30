@@ -1,0 +1,14 @@
+name: 06_exercises
+title: 06_exercises
+username:
+account: katherineliberko
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4337023
+bundleId: 4771993
+url: https://katherineliberko.shinyapps.io/06_exercises/
+when: 1625038271.82571
+lastSyncTime: 1625038271.82571
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 06_exercises.html|06_exercises.Rmd|Groceries_dataset.csv|README.md
